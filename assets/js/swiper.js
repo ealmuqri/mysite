@@ -27,6 +27,12 @@ var swiper={
         // initilizes the object 
         init: function(){
             
-        }
+        },
+
+        hide: function(){},
+        show: function(){},
+        next: function(){},
+        prev: function(){},
+
     
 };
